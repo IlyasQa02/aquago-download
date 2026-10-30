@@ -1,0 +1,14 @@
+{
+  "apk": {
+    "build": 6,
+    "version": "1.4.0",
+    "url": "https://github.com/IlyasQa02/aquago-download/releases/latest/download/AquaGo.apk",
+    "notes": "Скачайте и установите поверх текущей — данные сохранятся"
+  },
+  "web": {
+    "version": "1.4.0",
+    "url": "https://raw.githubusercontent.com/IlyasQa02/aquago-download/main/bundles/web-1.4.0.zip",
+    "checksum": "dbb9bc83c8178150284e46d17b109e77247f2127e9c122177ae21ad6d6a0c186",
+    "minBuild": 0
+  }
+}
